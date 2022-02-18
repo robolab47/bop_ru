@@ -1,1 +1,2 @@
-# A Byte of Python - Russian version
+# A Byte of Python 
+Russian version
